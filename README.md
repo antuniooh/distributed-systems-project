@@ -42,7 +42,7 @@
 The project consists of a simulation of a biodiesel plant. The system was made in a distributed way using APIs in python
 
 
-![app](https://github.com/antuniooh/distributed-systems-project/blob/main/projeto.pngf)
+![app](https://github.com/antuniooh/distributed-systems-project/blob/main/projeto.png)
 
 <!-- HOW TO RUN -->
 ## 🚀 How To Run
